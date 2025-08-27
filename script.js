@@ -13,7 +13,7 @@ function reverseString(str) {
 var myName = "Femi"; 
 var myResult = reverseString(myName);
 
-console.log("The reversed word of " + myName + " is 👉 " + myResult);
+console.log("The reversed word of " + myName + " is  " + myResult);
 
 
 // Question 2
